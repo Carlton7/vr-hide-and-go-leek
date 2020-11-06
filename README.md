@@ -37,8 +37,6 @@ Click on the image to be directed to our demo:
 
 [![Demo](http://img.youtube.com/vi/4pK14BlfLls/0.jpg)](http://www.youtube.com/watch?v=4pK14BlfLls "https://github.com/Carlton7/vr-hide-and-go-beetroot/blob/master/images/title_beetroot.png?raw=true")
 
-[![Demo](http://img.youtube.com/vi/4pK14BlfLls/0.jpg)](http://www.youtube.com/watch?v=4pK14BlfLls)
-
 ## USER STORIES
 
 REQUIRED
